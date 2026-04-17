@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/my-hms/static/js/main.33a04804.js",
+    "index.html": "/my-hms/index.html",
+    "main.33a04804.js.map": "/my-hms/static/js/main.33a04804.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.33a04804.js"
+  ]
+}
