@@ -2,7 +2,7 @@
   "name": "medicore-hospital-management-system",
   "version": "1.0.0",
   "private": false,
-  "homepage": "https://papamaq.github.io/MEDICORE---hospital-management-system",
+  "homepage": "https://papamaq.github.io/my-hms",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.9.1",
