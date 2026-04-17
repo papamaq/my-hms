@@ -1,6 +1,6 @@
 # MediCore — Hospital Management System
 
-**Live Demo → [papamaq.github.io/medicore](https://papamaq.github.io/MEDICORE---hospital-management-system/)**
+**Live Demo → [papamaq.github.io/medicore](https://papamaq.github.io/my-hms/)**
 
 A fully interactive Hospital Management System built with React. Designed to handle the core workflows of a modern hospital — from patient records and appointments to billing and staff management — all within a clean glassmorphism UI.
 
